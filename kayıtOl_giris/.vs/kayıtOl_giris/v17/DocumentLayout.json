@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\kay\u0131tcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\kay\u0131tcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\kay\u0131tcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\kay\u0131tcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|c:\\users\\muham\\desktop\\important folders\\c# projects\\kay\u0131tol_giris\\kay\u0131tol_giris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\kitap_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\kitap_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\kitap_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\kitap_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\sifredegistir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\sifredegistir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\kullan\u0131c\u0131sorgu\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\kullan\u0131c\u0131sorgu\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\hesapsilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\hesapsilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\tcguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\tcguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\hesapsilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\hesapsilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\kullan\u0131c\u0131sorgu\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\kullan\u0131c\u0131sorgu\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\\u015Fifreunuttumcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\\u015Fifreunuttumcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\\u015Fifreunuttumcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\\u015Fifreunuttumcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\tcguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\tcguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\sifredegistir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\sifredegistir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\girisyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\girisyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\telnoguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\telnoguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\girisyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\girisyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tol_giris\\telnoguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C468DEA-9E1B-4635-BCDD-912EA2738771}|kay\u0131tOl_giris\\kay\u0131tOl_giris.csproj|solutionrelative:kay\u0131tol_giris\\telnoguncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sifreDegistir.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\sifreDegistir.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\sifreDegistir.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\sifreDegistir.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kay\u0131tOl_giris\\sifreDegistir.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:51:23.64Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "sifreDegistir.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\sifreDegistir.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\sifreDegistir.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\sifreDegistir.cs",
+              "RelativeToolTip": "kay\u0131tOl_giris\\sifreDegistir.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAawAsBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:01:44.528Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "\u015FifreUnuttumcs.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\\u015FifreUnuttumcs.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\\u015FifreUnuttumcs.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\\u015FifreUnuttumcs.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kay\u0131tOl_giris\\\u015FifreUnuttumcs.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:01:30.812Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "\u015FifreUnuttumcs.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\\u015FifreUnuttumcs.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\\u015FifreUnuttumcs.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\\u015FifreUnuttumcs.cs",
+              "RelativeToolTip": "kay\u0131tOl_giris\\\u015FifreUnuttumcs.cs",
+              "ViewState": "AgIAAM8BAAAAAAAAAAAhwOcBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:07:28.112Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kay\u0131tcs.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\kay\u0131tcs.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\kay\u0131tcs.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\kay\u0131tcs.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kay\u0131tOl_giris\\kay\u0131tcs.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:44:36.034Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kay\u0131tcs.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\kay\u0131tcs.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\kay\u0131tcs.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\kay\u0131tcs.cs",
+              "RelativeToolTip": "kay\u0131tOl_giris\\kay\u0131tcs.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAlwDQBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:45:39.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "girisYap.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\girisYap.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\girisYap.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\girisYap.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kay\u0131tOl_giris\\girisYap.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:15:46.053Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "girisYap.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\girisYap.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\girisYap.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\girisYap.cs",
+              "RelativeToolTip": "kay\u0131tOl_giris\\girisYap.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAawLcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:25:46.598Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\Form1.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kay\u0131tOl_giris\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:33:54.125Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\Form1.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\Form1.cs",
+              "RelativeToolTip": "kay\u0131tOl_giris\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:34:36.654Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "kullan\u0131c\u0131Sorgu\u0130slemleri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\kullan\u0131c\u0131Sorgu\u0130slemleri.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\kullan\u0131c\u0131Sorgu\u0130slemleri.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\kullan\u0131c\u0131Sorgu\u0130slemleri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kay\u0131tOl_giris\\kullan\u0131c\u0131Sorgu\u0130slemleri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:58:05.365Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "kullan\u0131c\u0131Sorgu\u0130slemleri.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\kullan\u0131c\u0131Sorgu\u0130slemleri.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\kullan\u0131c\u0131Sorgu\u0130slemleri.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\kullan\u0131c\u0131Sorgu\u0130slemleri.cs",
+              "RelativeToolTip": "kay\u0131tOl_giris\\kullan\u0131c\u0131Sorgu\u0130slemleri.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAhwNIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:43:46.299Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "anaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\anaSayfa.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\anaSayfa.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\anaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kay\u0131tOl_giris\\anaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:23:48.193Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "anaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\anaSayfa.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\anaSayfa.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\anaSayfa.cs",
+              "RelativeToolTip": "kay\u0131tOl_giris\\anaSayfa.cs",
+              "ViewState": "AgIAAJgCAAAAAAAAAAAawKkCAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:23:48.015Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "telNoGuncelle.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\telNoGuncelle.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\telNoGuncelle.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\telNoGuncelle.cs",
+              "RelativeToolTip": "kay\u0131tOl_giris\\telNoGuncelle.cs",
+              "ViewState": "AgIAACUCAAAAAAAAAAASwDMCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:42:17.794Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "telNoGuncelle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\telNoGuncelle.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\telNoGuncelle.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\telNoGuncelle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kay\u0131tOl_giris\\telNoGuncelle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:38:51.604Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TcGuncelleme.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\TcGuncelleme.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\TcGuncelleme.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\TcGuncelleme.cs",
+              "RelativeToolTip": "kay\u0131tOl_giris\\TcGuncelleme.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAhwO0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:40:18.407Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "hesapSilme.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\hesapSilme.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\hesapSilme.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\hesapSilme.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kay\u0131tOl_giris\\hesapSilme.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T23:48:16.154Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "hesapSilme.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\hesapSilme.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\hesapSilme.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\hesapSilme.cs",
+              "RelativeToolTip": "kay\u0131tOl_giris\\hesapSilme.cs",
+              "ViewState": "AgIAAPwBAAAAAAAAAAAEwAYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T23:52:01.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kitap_islemleri.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\Kitap_islemleri.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\Kitap_islemleri.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\Kitap_islemleri.cs",
+              "RelativeToolTip": "kay\u0131tOl_giris\\Kitap_islemleri.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:08:05.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kitap_islemleri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\Kitap_islemleri.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\Kitap_islemleri.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\Kitap_islemleri.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kay\u0131tOl_giris\\Kitap_islemleri.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:38:18.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TcGuncelleme.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\TcGuncelleme.cs",
+              "RelativeDocumentMoniker": "kay\u0131tOl_giris\\TcGuncelleme.cs",
+              "ToolTip": "C:\\Users\\muham\\Desktop\\important folders\\C# Projects\\kay\u0131tOl_giris\\kay\u0131tOl_giris\\TcGuncelleme.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kay\u0131tOl_giris\\TcGuncelleme.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:34:34.986Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
