@@ -17,4 +17,4 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 - .NET Framework 4.7.2 veya üzeri.
 
 ### Adımlar
-1. **qprogramı exe dosyasından çalıştırın**
+1. **Programı exe dosyasından çalıştırın**
