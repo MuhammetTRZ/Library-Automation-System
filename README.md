@@ -1,3 +1,9 @@
+#### Not
+Bu proje başlangıçta somee.com üzerinde host edilen bir SQL Server veritabanı ile çalışıyordu. 
+Ancak somee hesabım silindiği ve bilgisayarımı formatladığım için artık veritabanı mevcut değil. 
+Projeyi çalıştırmak isteyenlerin kendi SQL Server veritabanını oluşturup, tablo yapısını tanımlayıp 
+`appsettings.json` veya connection string kısmını güncellemesi gerekiyor.
+
 # Library Automation System
 
 ## Proje Hakkında
